@@ -1,6 +1,6 @@
 # CV Justine Bouilly 
 
-[![Photo] (https://images.app.goo.gl/SxKH6LESQGXUXdev7)]
+![Photo](https://media.licdn.com/dms/image/C4D03AQHKtBa2f2TKAg/profile-displayphoto-shrink_800_800/0/1580914815235?e=2147483647&v=beta&t=7oKs57jQgcD78FvLs6uN6ofQFSuT2xe2dPSkJ4bWMac)
 
 Grande curieuse des nouvelles technologies et spécialement des systèmes d'information, plus particulièrement les sujets de Cyber.
 Commerciale depuis plus de 7 ans, ma relation client est un partenariat gagnant gagnant, avec un vrai sens de l'accompagnement et du conseil.
@@ -28,6 +28,6 @@ _2017 à 2019_
 
  Course à pied · randonnée · équitation · sortie culturelle (théatre, concerto, festival) · voyage
 
- Mon [compte LinkedIn] (https://www.linkedin.com/in/justine-bouilly/)
+ Mon [compte LinkedIn](https://www.linkedin.com/in/justine-bouilly/)
  
  
